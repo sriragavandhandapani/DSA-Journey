@@ -19,6 +19,9 @@ public:
         }
         return a;
         
-        
+        //sorting
+        // int s = nums.size();
+        // sort(nums.begin(),nums.end());
+        // return nums[s/2];
     }
 };
